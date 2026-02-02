@@ -1,0 +1,16 @@
+
+{
+  "name": "Alice Cartoon",
+  "short_name": "Alice",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/512/ffffff/a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

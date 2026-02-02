@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Alice - Dein Malbuch",
+  "description": "Erstelle mit Alice deine eigenen Ausmalbilder aus deinen Fotos. Einfach, magisch und perfekt für Kinder!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
